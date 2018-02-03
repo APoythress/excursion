@@ -1,0 +1,26 @@
+body {
+  background-color: black;
+}
+
+
+/* Header Section */
+
+.banner_title {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+
+.link {
+  font-size: 16px;
+  text-align: center;
+}
+
+a:link {
+  color: aquamarine;
+}
+
+
+/* Person Travel Guide */
